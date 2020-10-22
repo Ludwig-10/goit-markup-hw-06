@@ -464,9 +464,6 @@ color: var(--auxiliary-color);
     display: flex;
     margin-top: 20px;
 }
-.footer-social {
-    margin-left: 70px;
-}
 .footer-social-link {
     display:flex;
     align-items: center;
